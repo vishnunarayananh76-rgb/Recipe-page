@@ -6,5 +6,5 @@ A clean, responsive web application for sharing a delicious Creamy Garlic Pasta 
 - CSS3
 
 # Screenshot
-![import alt](https://github.com/vishnunarayananh76-rgb/Recipe-page/blob/c5504d788d04d864da92e3df1995943337ba6b74/images.pasta.png)
+![import alt](https://github.com/vishnunarayananh76-rgb/Recipe-page/blob/f2165e69d1b4736e558dff8376ec580f49f861c9/recipe-page.jpg)
   
